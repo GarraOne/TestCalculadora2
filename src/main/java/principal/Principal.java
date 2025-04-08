@@ -1,9 +1,9 @@
-package Principal;
+package principal;
 
 import calculadora.Calculadora;
 import javax.swing.JOptionPane;
 
-public class principal {
+public class Principal {
 
     public static void main(String[] args) {
         String opcao = "";
